@@ -10,7 +10,7 @@ This is a dataset for **accurate** single human segmentation.
 ## Download
 
 ```
-wget https://drive.google.com/uc?export=download&id=1V83B6GDIjYMfHdpg-KcCSAPgHxpafHgd -O ATR_RemoveBG.zip
+wget https://drive.google.com/uc?export=download&id=1jDUddrJlUlv5O_JAdb8qZk45EwtEqf_4 -O ATR_RemoveBG.zip
 
 ```
 
