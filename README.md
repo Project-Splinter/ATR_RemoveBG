@@ -11,6 +11,7 @@ This is a dataset for **accurate** single human segmentation.
 
 - trainset: [link](https://drive.google.com/open?id=1jDUddrJlUlv5O_JAdb8qZk45EwtEqf_4)
 - valset: [link](https://drive.google.com/open?id=1FPqz2P51sbnWo1K2FcowPnZCAGC1-_uY)
+- testset (no annotation): [link](https://drive.google.com/open?id=1gPkkqwiXKaPWLIIrF7QfvHHOu0B3zDjB)
 
 ## Api
 
