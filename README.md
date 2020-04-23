@@ -9,8 +9,8 @@ This is a dataset for **accurate** single human segmentation.
 
 ## Download
 
-- trainset [link](https://drive.google.com/open?id=1jDUddrJlUlv5O_JAdb8qZk45EwtEqf_4)
-- valset [link](https://drive.google.com/open?id=1FPqz2P51sbnWo1K2FcowPnZCAGC1-_uY)
+- trainset: [link](https://drive.google.com/open?id=1jDUddrJlUlv5O_JAdb8qZk45EwtEqf_4)
+- valset: [link](https://drive.google.com/open?id=1FPqz2P51sbnWo1K2FcowPnZCAGC1-_uY)
 
 ## Api
 
