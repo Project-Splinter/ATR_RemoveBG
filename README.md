@@ -4,7 +4,7 @@ This is a dataset for **accurate** single human segmentation.
 
 <div align="center">
 <img src="example.jpg" width="800px"/>
-<p> Some examples of the images loaded by `loader.py` (with aug).</p>
+<p> Some examples of the dataset.</p>
 </div>
 
 ## Download
